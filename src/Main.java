@@ -4,7 +4,7 @@ public class Main {
 
         CreditPaymentService service = new CreditPaymentService();
 
-        int amount = 10_000_000;
+        int amount = 1_000_000;
         double yearPercent = 9.99;
         double year1 = 1;
         double creditPeriod1 = year1*12;
